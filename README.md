@@ -5,7 +5,7 @@ THIS IS WORK IN PROGRESS VERY VERY IF U LIKE TO CONTRIBUTE UNFORTUNATELY I WOULD
 Idk because its fun m8 so step off lad
 ## ok But Aint it old technology m8 like u can just use core lol u r so stupid lolzzzz
 Grow up m8
-## ok ok SO are u gonna implement the membership and the whole shabang
+## ok ok SO are u gonna implement the identity framework and the whole shabang
 yes
 ## what i nee d to run how 2 run pl0x send help
 Ok so what u do is that uh
