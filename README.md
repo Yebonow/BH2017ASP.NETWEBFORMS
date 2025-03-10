@@ -1,6 +1,8 @@
 # Brick Hill 2017 Website Rewrite into ASP.NET Web Forms
 THIS IS WORK IN PROGRESS VERY VERY IF U LIKE TO CONTRIBUTE UNFORTUNATELY I WOULD LIKE TO WORK ON THIS BY MYSELF SO SORRY MATEY
 ***
+# Hello
+so its not gonna b e anything like the original product but you can know that its gonna work the same pretty much
 ## Ok So why are you doing this lol
 Idk because its fun m8 so step off lad
 ## ok But Aint it old technology m8 like u can just use core lol u r so stupid lolzzzz
